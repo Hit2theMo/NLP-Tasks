@@ -1,9 +1,9 @@
 # NLP-Tasks
 
-My details are- 
-Name- Mohit Khanwale
-Reg.No- 16BCB0126
-Slot- G2
+My details are-<br> 
+Name- Mohit Khanwale<br>
+Reg.No- 16BCB0126<br>
+Slot- G2<br>
 
 Completed python programs for three given NLP tasks. (16BCB0126)
 The three tasks are:
